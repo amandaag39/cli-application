@@ -6,7 +6,8 @@ This is a fun CLI app that generates a random RPG character for adventures in Mi
 
 1. Clone the repository.
 2. Run the CLI app using `ruby main.rb`.
-3. A character will be automatically generated for you.
+3. Choose one of the numbered options.
+3. If you're feeling brave, a character will be automatically generated for you.
 4. The app will display the details of the randomly generated character.
 
 Embark on epic adventures with your Middle-earth character!
