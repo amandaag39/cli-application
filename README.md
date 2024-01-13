@@ -1,4 +1,4 @@
-# Middle-earth Character Generator CLI
+# Middle-Earth Character Generator CLI
 
 This is a fun CLI app that generates a random RPG character for adventures in Middle-earth, inspired by "The Lord of the Rings."
 
